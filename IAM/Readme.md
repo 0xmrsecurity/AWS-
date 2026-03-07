@@ -5,4 +5,4 @@
 - Resources will be shared for Notes, Practise and More Training Purpose.
 
 ## Notes Site
-[0xmrsecurity.github.io](https://0xmrsecurity.github.io/posts/iam/)
+[0xmrsecurity.github.io/iam](https://0xmrsecurity.github.io/posts/iam/)
