@@ -1,6 +1,6 @@
 ## This folder Contain the IAM Enumeration Stuff :- 
 > [!IMPORTANT]
-> Be Practical
+> Be Practical, Always get Hands on Practice.
 
 
 - Uploaded IAM Enumeration Docx, for Detail Enumeration step by step visit [link](https://0xmrsecurity.github.io/](https://0xmrsecurity.github.io/posts/iam/)
