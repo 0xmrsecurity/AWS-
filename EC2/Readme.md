@@ -1,4 +1,8 @@
 ### Elastic Compute Cloud (EC2) Enumeration Stuff !!!
+
+!!! Warning  Amazon Elastic Compute Cloud (EC2) is indeed a web service that provides virtual machines, known as EC2 instances.
+
+
 >[!CAUTION]
 > Amazon Elastic Compute Cloud (EC2) is indeed a web service that provides virtual machines, known as EC2 instances.
 
